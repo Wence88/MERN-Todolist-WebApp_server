@@ -1,6 +1,4 @@
-# TimeKeeperVault-Plus
 My To-do List App
-# TimeKeeperVault-Plus
 
 # Timekeeper Vault Backend
 
