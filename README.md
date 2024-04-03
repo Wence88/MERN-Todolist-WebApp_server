@@ -14,7 +14,14 @@ Welcome to the backend of Timekeeper Vault. This README provides an overview of 
 
 ## Introduction
 
-Timekeeper Vault Backend is built with Node.js and Express.js, providing RESTful APIs for user authentication, task management, and database operations. It utilizes MongoDB as the database and JWT for user authentication.
+Timekeeper Vault Backend is built with Node.js and Express.js, providing RESTful APIs for user authentication, task management, and database operations. It utilizes MongoDB as the database and JWT for user authentication
+
+Technologies used
+React
+NodeJS
+CSS
+Express.js
+MongoDB
 
 ## Project Structure
 
